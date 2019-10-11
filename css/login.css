@@ -284,6 +284,6 @@ footer {
     position: fixed;
     width: 100%;
     height: auto;
-    bottom: 0;
+    bottom: 0%;
     font-size: 0.8rem;
 }
