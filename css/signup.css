@@ -56,7 +56,6 @@
     }
     
     button:hover {
-        -webkit-font-smoothing: antialiased;
         -webkit-transform: translateY(-2%);
         -moz-transform: translateY(-2%);
         transform: translateY(-2%);
