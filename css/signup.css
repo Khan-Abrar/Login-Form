@@ -16,14 +16,14 @@
                 width: 100%;
                 height: auto;
                 background-color: black;
-                /* background: url(../images/bg5.jpg) no-repeat center fixed; */
-                /* background-size: cover; */
+                background: url(../images/bg6.jpg) no-repeat center fixed;
+                background-size: cover;
             }
             
             .outer {
                 display: flex;
                 position: fixed;
-                background-color: black;
+                background-color: rgba(0, 0, 0, 0.274);
                 margin: 5% 27.5%;
             }
             
@@ -35,7 +35,7 @@
             
             .col-1 {
                 -webkit-font-smoothing: antialiased;
-                background: url(../images/mob5.jpg);
+                /* background: url(../images/mob5.jpg); */
                 background-size: cover;
                 background-position: fixed;
                 background-repeat: no-repeat;
